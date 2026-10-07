@@ -10,11 +10,11 @@
 * **Интерфейс:** PyQt6
 
 ## 👥 Команда проекта
-* [Имя друга 1] — Computer Vision / YOLO
-* [Имя друга 2] — Tracking / OpenCV
-* [Твое имя] — Interface / Architecture
+* [Антон Стулков] 
+* [Илья Дмитриев]  
+* [Алина Глагольева] 
 
 ## 🚀 Быстрый старт
 1. Клонируйте репозиторий:
    ```bash
-   git clone [https://github.com/ВАШ_АККАУНТ/ИМЯ_РЕПОЗИТОРИЯ.git](https://github.com/ВАШ_АККАУНТ/ИМЯ_РЕПОЗИТОРИЯ.git)
+   git clone [https://github.com/AntonStulkov/car-tracking-cv](https://github.com/AntonStulkov/car-tracking-cv)
