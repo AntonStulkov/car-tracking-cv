@@ -1,0 +1,28 @@
+{
+  "version": "0.2.0",
+  "configurations": [
+    {
+      "name": "GUI (PyQt6)",
+      "type": "debugpy",
+      "request": "launch",
+      "program": "${workspaceFolder}/main.py",
+      "console": "integratedTerminal"
+    },
+    {
+      "name": "CLI: видеофайл",
+      "type": "debugpy",
+      "request": "launch",
+      "program": "${workspaceFolder}/main.py",
+      "args": ["--source", "video.mp4", "--output", "out.mp4"],
+      "console": "integratedTerminal"
+    },
+    {
+      "name": "CLI: RTSP",
+      "type": "debugpy",
+      "request": "launch",
+      "program": "${workspaceFolder}/main.py",
+      "args": ["--source", "rtsp://user:pass@192.168.1.10:554/stream"],
+      "console": "integratedTerminal"
+    }
+  ]
+}
